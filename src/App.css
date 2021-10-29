@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.heading1{
+  margin-top: 50px;
+}
+
+.heading2{
+  margin-top: 50px;
+  margin-left: 150px;
+}
+
+.counter{
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+.input-field{
+  width:40px;
+  height:40px;  
+ text-align: center;
+}
+
+
+
+
+
